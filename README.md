@@ -27,7 +27,9 @@ This project demonstrates how linear regression works **under the hood** — no 
   - 📐 **Cost function curve** to show model convergence
 
 
-Visit Link : [Visit Notebook](https://colab.research.google.com/drive/1gEiJamqQQNNovzjaJiVINAiVNACUUfox?usp=sharing)
+## Visit Notebook 
+
+[Visit Notebook](https://colab.research.google.com/drive/1gEiJamqQQNNovzjaJiVINAiVNACUUfox?usp=sharing)
 
 
 ## 🧮 Math Behind It
