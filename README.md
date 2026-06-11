@@ -53,10 +53,13 @@ $$w = \frac{\sum (x_i - \bar{x})(y_i - \bar{y})}{\sum (x_i - \bar{x})^2}, \quad 
 | Scatter Plot | Raw data points from the CSV dataset |
 | Regression Line | Best-fit line overlaid on the scatter plot |
 | Cost Function Curve | How MSE changes with varying weights |
+| Learning Curve | How cost reduces over iteration |
 
 ---
-<img width="588" height="457" alt="image" src="https://github.com/user-attachments/assets/2367ff7a-4928-4ac1-a5f5-06326504a44a" />
+
+<img width="577" height="463" alt="image" src="https://github.com/user-attachments/assets/3b5a766e-2469-4ed7-8335-26d1f2e01daa" />
 <img width="646" height="541" alt="image" src="https://github.com/user-attachments/assets/8a5eb3c7-557c-4082-bdf0-5249d7eef51a" />
+<img width="588" height="457" alt="image" src="https://github.com/user-attachments/assets/2367ff7a-4928-4ac1-a5f5-06326504a44a" />
 <img width="651" height="520" alt="image" src="https://github.com/user-attachments/assets/f8135c32-b20d-4399-b60e-bc8ca0b383e3" />
 
 ## 🛠️ Tech Stack
@@ -72,22 +75,8 @@ $$w = \frac{\sum (x_i - \bar{x})(y_i - \bar{y})}{\sum (x_i - \bar{x})^2}, \quad 
 
 ## ▶️ How to Run
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/Simple-Linear-Regression-From-Scratch.git
-   cd Simple-Linear-Regression-From-Scratch
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install numpy matplotlib pandas
-   ```
-
-3. **Run the project**
-   ```bash
-   python main.py
-   ```
-
+1. **Open the Notebook at Google Colab**
+    Link has been provided.Just Click the link.
 ---
 
 ## 📌 Key Concepts Covered
